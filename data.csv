@@ -1,0 +1,21 @@
+flightAirlines,flightCode,flightOrigin,flightTerminal,flightTime
+ Japan Airlines              ,JL745,Tokyo (NRT),Terminal 1,09:40PM
+ Oman Air              ,WY843,Muscat (MCT),Terminal 1,09:50PM
+ Korean Air              ,KE623,Seoul (ICN),Terminal 1,10:05PM
+ Jeju Air              ,7C2305,Seoul (ICN),Terminal 1,10:20PM
+ Asiana Airlines              ,OZ703,Seoul (ICN),Terminal 1,10:25PM
+ Cebu Pacific              ,5J396,Cagayan de Oro (CGY),Terminal 3,10:30PM
+ Cebu Pacific              ,5J189,Seoul (ICN),Terminal 3,10:45PM
+ Qatar Airways              ,QR928,Doha (DOH),Terminal 3,10:45PM
+ Philippine Airlines              ,PR469,Seoul (ICN),Terminal 2,11:35PM
+ Philippine Airlines              ,PR2530,Cagayan de Oro (CGY),Terminal 2,11:45PM
+ Suparna Airlines              ,Y87909,Xiamen (XMN),,01:00AM
+ Philippine Airlines              ,PR5105,San Francisco (SFO),Terminal 2,03:55AM
+ Longhao Airlines              ,GI4039,Zhengzhou (CGO),,04:00AM
+ Longhao Airlines              ,GI4217,Shenzhen (SZX),,04:40AM
+ Philippine Airlines              ,PR8103,Los Angeles (LAX),,04:45AM
+ Cebu Pacific              ,5J804,Singapore (SIN),Terminal 3,05:25AM
+ Suparna Airlines              ,Y87905,Shanghai (PVG),,07:00AM
+ SF Airlines              ,O37355,Shenzhen (SZX),,07:40AM
+ Philippine Airlines              ,PR2520,Cagayan de Oro (CGY),Terminal 2,08:35AM
+ Pan Pacific Airlines              ,8Y312,Davao (DVO),,08:45AM

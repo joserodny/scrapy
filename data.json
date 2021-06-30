@@ -1,0 +1,15 @@
+[
+{"flightTime": ["10:05PM"], "flightCode": ["KE623"], "flightOrigin": ["Seoul (ICN)"], "flightAirlines": [" Korean Air              "], "flightTerminal": ["Terminal 1"]},
+{"flightTime": ["10:20PM"], "flightCode": ["7C2305"], "flightOrigin": ["Seoul (ICN)"], "flightAirlines": [" Jeju Air              "], "flightTerminal": ["Terminal 1"]},
+{"flightTime": ["10:25PM"], "flightCode": ["OZ703"], "flightOrigin": ["Seoul (ICN)"], "flightAirlines": [" Asiana Airlines              "], "flightTerminal": ["Terminal 1"]},
+{"flightTime": ["10:30PM"], "flightCode": ["5J396"], "flightOrigin": ["Cagayan de Oro (CGY)"], "flightAirlines": [" Cebu Pacific              "], "flightTerminal": ["Terminal 3"]},
+{"flightTime": ["10:45PM"], "flightCode": ["5J189"], "flightOrigin": ["Seoul (ICN)"], "flightAirlines": [" Cebu Pacific              "], "flightTerminal": ["Terminal 3"]},
+{"flightTime": ["10:45PM"], "flightCode": ["QR928"], "flightOrigin": ["Doha (DOH)"], "flightAirlines": [" Qatar Airways              "], "flightTerminal": ["Terminal 3"]},
+{"flightTime": ["11:35PM"], "flightCode": ["PR469"], "flightOrigin": ["Seoul (ICN)"], "flightAirlines": [" Philippine Airlines              "], "flightTerminal": ["Terminal 2"]},
+{"flightTime": ["11:45PM"], "flightCode": ["PR2530"], "flightOrigin": ["Cagayan de Oro (CGY)"], "flightAirlines": [" Philippine Airlines              "], "flightTerminal": ["Terminal 2"]},
+{"flightTime": ["03:55AM"], "flightCode": ["PR5105"], "flightOrigin": ["San Francisco (SFO)"], "flightAirlines": [" Philippine Airlines              "], "flightTerminal": ["Terminal 2"]},
+{"flightTime": ["05:25AM"], "flightCode": ["5J804"], "flightOrigin": ["Singapore (SIN)"], "flightAirlines": [" Cebu Pacific              "], "flightTerminal": ["Terminal 3"]},
+{"flightTime": ["08:35AM"], "flightCode": ["PR2520"], "flightOrigin": ["Cagayan de Oro (CGY)"], "flightAirlines": [" Philippine Airlines              "], "flightTerminal": ["Terminal 2"]},
+{"flightTime": ["08:45AM"], "flightCode": ["PR1836"], "flightOrigin": ["Cebu (CEB)"], "flightAirlines": [" Philippine Airlines              "], "flightTerminal": ["Terminal 2"]},
+{"flightTime": ["08:55AM"], "flightCode": ["PR1810"], "flightOrigin": ["Davao (DVO)"], "flightAirlines": [" Philippine Airlines              "], "flightTerminal": ["Terminal 2"]}
+]
